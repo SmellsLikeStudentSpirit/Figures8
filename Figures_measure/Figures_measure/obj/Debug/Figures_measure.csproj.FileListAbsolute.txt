@@ -5,3 +5,10 @@ C:\Users\raiden\source\repos\Figures_measure\Figures_measure\obj\Debug\Figures_m
 C:\Users\raiden\source\repos\Figures_measure\Figures_measure\obj\Debug\Figures_measure.csproj.CoreCompileInputs.cache
 C:\Users\raiden\source\repos\Figures_measure\Figures_measure\obj\Debug\Figures_measure.exe
 C:\Users\raiden\source\repos\Figures_measure\Figures_measure\obj\Debug\Figures_measure.pdb
+C:\Users\raiden\Documents\GitHub\Figures8\Figures_measure\Figures_measure\bin\Debug\Figures_measure.exe.config
+C:\Users\raiden\Documents\GitHub\Figures8\Figures_measure\Figures_measure\bin\Debug\Figures_measure.exe
+C:\Users\raiden\Documents\GitHub\Figures8\Figures_measure\Figures_measure\bin\Debug\Figures_measure.pdb
+C:\Users\raiden\Documents\GitHub\Figures8\Figures_measure\Figures_measure\obj\Debug\Figures_measure.csprojAssemblyReference.cache
+C:\Users\raiden\Documents\GitHub\Figures8\Figures_measure\Figures_measure\obj\Debug\Figures_measure.csproj.CoreCompileInputs.cache
+C:\Users\raiden\Documents\GitHub\Figures8\Figures_measure\Figures_measure\obj\Debug\Figures_measure.exe
+C:\Users\raiden\Documents\GitHub\Figures8\Figures_measure\Figures_measure\obj\Debug\Figures_measure.pdb

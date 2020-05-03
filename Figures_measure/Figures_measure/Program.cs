@@ -11,7 +11,7 @@ namespace Figures_measure
          double Measure();      
     }
 
-    class Circle:IFigures
+    public class Circle:IFigures
     {
         private double m_radius;
         public double Radius
@@ -42,7 +42,7 @@ namespace Figures_measure
         }
     }
 
-    class Triangle:IFigures
+    public class Triangle:IFigures
     {
         public double Side1 { get; set; }
         public double Side2 { get; set; }
